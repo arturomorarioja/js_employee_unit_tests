@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "jest": "^29.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "js_employee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Arturo Mora-Rioja (amri@kea.dk)",
+  "license": "UNLICENSED",
+  "description": ""
+}
